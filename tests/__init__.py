@@ -1,2 +1,3 @@
-def add(a,b):
-    return a + b
+"""
+This module does not contain code at the moment
+"""
